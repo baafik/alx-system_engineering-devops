@@ -1,2 +1,1 @@
-#alx-system_engineering-devops
-not empty readme file
+# alx-system_engineering-devops
